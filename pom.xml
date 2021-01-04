@@ -39,7 +39,7 @@
         </configuration>
       </plugin>
 
-      <plugin>
+      <plugin>  <!-- hi varun -->
         <artifactId>maven-release-plugin</artifactId>
         <configuration>
           <autoVersionSubmodules>true</autoVersionSubmodules>
